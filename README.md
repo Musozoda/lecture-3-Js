@@ -91,10 +91,12 @@ If the parameter is a regular expression, the global flag (g) must be set set, o
 
 #### JavaScript String trim()
 > The trim() method removes whitespace from both sides of a string:
+
 [10](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143823.png)
 
 
 
 #### JavaScript String split()
 > A string can be converted to an array with the split() method:
+
 [11](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143947.png)
