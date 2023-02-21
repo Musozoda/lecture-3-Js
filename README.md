@@ -56,7 +56,7 @@ The difference is that the second parameter specifies the length of the extracte
 
 > The replaceAll() method allows you to specify a regular expression instead of a string to be replaced.
 If the parameter is a regular expression, the global flag (g) must be set set, otherwise a TypeError is thrown.
->> [img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143324.png)
+>> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143324.png)
 
 
 
@@ -66,30 +66,29 @@ If the parameter is a regular expression, the global flag (g) must be set set, o
 - A string is converted to lower case with toLowerCase():
 
 #### JavaScript String toUpperCase()
->> [img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143617.png)
+>> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143617.png)
 
 
 #### JavaScript String toLowerCase()
->> [img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143655.png)
+>> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143655.png)
 
 
 
 
 #### JavaScript String concat()
 > concat() joins two or more strings:
->> [img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143741.png)
+>> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143741.png)
 
 
 
 #### JavaScript String trim()
 > The trim() method removes whitespace from both sides of a string:
->> [img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143823.png)
+>> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143823.png)
 
 
 
 #### JavaScript String split()
 > A string can be converted to an array with the split() method:
-
-[img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143947.png)
+>> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143947.png)
 
 
