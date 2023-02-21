@@ -16,7 +16,8 @@ also known as functions. |
 #### JavaScript String Length
 >The length property returns the length of a string:
 
-[1](/images/Снимок экрана 2023-02-21 142039.png)
+| [img](/images/Снимок экрана 2023-02-21 142039.png) |
+| - |
 
 #### Extracting String Parts
 - slice(start, end)
@@ -28,7 +29,7 @@ also known as functions. |
 > slice() extracts a part of a string and returns the extracted part in a new string.
 The method takes 2 parameters: start position, and end position (end not included).
 
-[2](/images/Снимок экрана 2023-02-21 142731.png)
+[img](/images/Снимок экрана 2023-02-21 142731.png)
 
 
 
@@ -37,14 +38,14 @@ The method takes 2 parameters: start position, and end position (end not include
 > substring() is similar to slice().
 The difference is that start and end values less than 0 are treated as 0 in substring().
 
-[3](/images/Снимок экрана 2023-02-21 142929.png)
+[img](/images/Снимок экрана 2023-02-21 142929.png)
 
 #### JavaScript String substr()
 
 > substr() is similar to slice().
 The difference is that the second parameter specifies the length of the extracted part.
 
-[4](/images/Снимок экрана 2023-02-21 143032.png)
+[img](/images/Снимок экрана 2023-02-21 143032.png)
 
 
 
@@ -52,7 +53,7 @@ The difference is that the second parameter specifies the length of the extracte
 
 > The replace() method replaces a specified value with another value in a string:
 
-[5](/images/Снимок экрана 2023-02-21 143138.png)
+[img](/images/Снимок экрана 2023-02-21 143138.png)
 
 
 
@@ -61,7 +62,7 @@ The difference is that the second parameter specifies the length of the extracte
 > The replaceAll() method allows you to specify a regular expression instead of a string to be replaced.
 If the parameter is a regular expression, the global flag (g) must be set set, otherwise a TypeError is thrown.
 
-[6](/images/Снимок экрана 2023-02-21 143324.png)
+[img](/images/Снимок экрана 2023-02-21 143324.png)
 
 
 
@@ -72,12 +73,12 @@ If the parameter is a regular expression, the global flag (g) must be set set, o
 
 #### JavaScript String toUpperCase()
 
-[7](/images/Снимок экрана 2023-02-21 143617.png)
+[img](/images/Снимок экрана 2023-02-21 143617.png)
 
 
 #### JavaScript String toLowerCase()
 
-[8](/images/Снимок экрана 2023-02-21 143655.png)
+[img](/images/Снимок экрана 2023-02-21 143655.png)
 
 
 
@@ -85,18 +86,20 @@ If the parameter is a regular expression, the global flag (g) must be set set, o
 #### JavaScript String concat()
 > concat() joins two or more strings:
 
-[9](/images/Снимок экрана 2023-02-21 143741.png)
+[img](/images/Снимок экрана 2023-02-21 143741.png)
 
 
 
 #### JavaScript String trim()
 > The trim() method removes whitespace from both sides of a string:
 
-[10](/images/Снимок экрана 2023-02-21 143823.png)
+[img](/images/Снимок экрана 2023-02-21 143823.png)
 
 
 
 #### JavaScript String split()
 > A string can be converted to an array with the split() method:
 
-[11](/images/Снимок экрана 2023-02-21 143947.png)
+[img](/images/Снимок экрана 2023-02-21 143947.png)
+
+
