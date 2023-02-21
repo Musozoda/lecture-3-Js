@@ -91,4 +91,59 @@ If the parameter is a regular expression, the global flag (g) must be set set, o
 > A string can be converted to an array with the split() method:
 >> ![img](/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-02-21%20143947.png)
 
+# 2.JavaScript Number methods 
+
+#### JavaScript Number methods Math.round(),ceil(),floor()
+
+The Math.floor() function rounds down a number to the next smallest integer.
+
+![img](/images/1.png)
+
+The Math.round() function returns the number rounded to the nearest integer
+
+![img](/images/2.png)
+
+The ceil() method rounds a decimal number up to the next largest integer and returns it
+
+![img](/images/3.png)
+
+#### JavaScript Number methods Math.max() and Math.min()
+
+The max() method finds the maximum value among the specified values and returns it.
+
+![img](/images/4.png)
+
+The min() method finds the minimum value among the specified values and returns it
+
+![img](/images/5.png)
+
+#### JavaScript Number methods Math.pow() and Math.sqrt()
+
+The pow() method computes the power of a number by raising the second argument
+to the power of the first argument.
+
+![img](/images/6.png)
+
+The sqrt() method computes the square root of a specified number and returns it
+
+![img](/images/7.png)
+
+#### JavaScript String method Math.abs() and Math.random()
+
+The abs() method finds the absolute value of the specified number (without any sign) and returns it.
+
+![img](/images/8.png)
+
+The Math.random() function returns a floating-point, pseudo-random number between 0 (inclusive) 
+and 1 (exclusive). 
+
+![img](/images/9.png)
+
+#### JavaScript Number method isNaN()
+
+The isNaN() function checks if a value is NaN (Not-a-Number) or not.
+
+![img](/images/10.png)
+
+
 
